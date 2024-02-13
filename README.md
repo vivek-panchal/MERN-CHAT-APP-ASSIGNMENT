@@ -9,8 +9,14 @@ Clone the project
   git clone https://github.com/vivek-panchal/MERN-CHAT-APP-ASSIGNMENT
 ```
 
-Go to the project directory
 
+
+## ENV file
+```bash
+rename .sampleenv into .env
+```
+
+Go to the project directory
 ```bash
   cd mern-chat-app
 ```
@@ -38,5 +44,7 @@ Start the Client
   cd frontend
   npm start
 ```
+
+
 
   
